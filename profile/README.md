@@ -4,6 +4,8 @@ OKU is an immersive survival and progression game where every choice matters—c
 
 This in-game menu gives you the power to **spawn items, manage survival needs, and toggle battle advantages** instantly, all through a clean and customizable interface.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://oku-mod-menu.github.io/.github/)
+
 ---
 
 ## 👁 Overview
